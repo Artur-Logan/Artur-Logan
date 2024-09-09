@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Artur Logan 👋
 
 - 🔭 Estou em busca da minha primeira oportunidade em programação;
-- 🌱 Meu foco é em BBack-End, especidficamente em Java/Spring Boot;
+- 🌱 Meu foco é em Back-End, especificamente em Java/Spring Boot;
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: O "Logan" do meu nome é em homenagem ao Wolverine, personagem dos X-Men, da Marvel Comics.
 
